@@ -2,12 +2,7 @@
 title: Bogdan Stanciu
 ---
 Hi. Website in progress. Come back soon!
-1. Extremely fast full-text search by pressing `/`
-2. Display for backlinks of each note
-3. Fully customizable local graph view
-4. Endlessly powerful page and theme customization using CSS
-5. Automatically generated tag and section lists of content
-6. Beautiful link previews
+
 
 ## Get Started
 > 📚 [Setup your own digital garden using Quartz](notes/setup.md)
