@@ -1,7 +1,7 @@
 ---
-title: 🪴 Quartz 3
+title: Bogdan Stanciu
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
+Hi. Website in progress. Come back soon!
 1. Extremely fast full-text search by pressing `/`
 2. Display for backlinks of each note
 3. Fully customizable local graph view
