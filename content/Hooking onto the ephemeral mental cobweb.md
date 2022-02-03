@@ -1,5 +1,5 @@
 ---
-title: "Hooking onto the ephemeral mental cobweb."
+title: "Hooking onto the ephemeral mental cobweb"
 ---
 
 
@@ -10,3 +10,4 @@ You can strengthen a memory or an idea or a thought by recalling it. You can als
 Funnily though, this points to a weird truth about the way our knowledge works. we're entirely networked based creatures - in our social lives, and in our brain waves. The way our brains remember things is by extending enough struts out until something sticks. Those struts are our senses and recollections and feelings and so forth about any memory. the more struts, the more lodged in there it is. 
 
 Furthermore, each link those struts have is a potential starting or joining point for remembering. You could say that every memory you have is linked to more memories, and it's that long line of stickiness that makes it all... stick. We really just are wikipedia, links all over the place.
+
