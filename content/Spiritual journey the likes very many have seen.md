@@ -1,3 +1,8 @@
+---
+title: "Spiritual journey the likes very many have seen"
+---
+
+
 I meditated for too long but didn't stop to think about what would happen when I came to blieve that reality is entirely internal.
 
 And if it's all internal.
