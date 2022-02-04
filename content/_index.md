@@ -1,6 +1,12 @@
 ---
 title: Bogdan Stanciu
 ---
+
+
+:)
+
+
+
 Hi. Welcome to my garden. I'm [Bogdan](Bogdan.md). I'm a Romanian/Canadian who grew up in Toronto and lives in Whitehorse, Yukon.
  
 This website is in progress. There may be weeds in the garden.
