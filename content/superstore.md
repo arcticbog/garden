@@ -14,5 +14,4 @@ I noticed superstore has been having more sales. more things have been on sale. 
 
 a little less things on the shelf?
 
-unless you get stock allocated to your store when you clear stock. sell more, restock more. strains the supply chain in a funny way. but certainly makes the shareholders happy. customers get more stock more often. until something doesn't work?
-
+unless you get stock allocated to your store when you clear stock. sell more, restock more. 

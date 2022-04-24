@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c74bea5061428ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5145dbdb8737d3d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/Turtles all the way down.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d031e6f607b6d3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "026a5b01145f16c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2691e007a2294c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8defc525d01fb214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "013767c50b271ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8f31eaaf560770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39345fd1002a9aeb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/Turtles all the way down.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5145dbdb8737d3d3",
+  "lastOpenFiles": [
+    "content/Turtles all the way down.md",
+    "content/Bogdan.md",
+    "content/LNOTS.md",
+    "content/Spiritual journey the likes very many have seen.md",
+    "content/the complaints generate the reality..md",
+    "content/superstore.md",
+    "content/_index.md",
+    "content/bleep bloop.md",
+    "content/Wait a second, what's going on here.md",
+    "content/Implement DBT in school curriculums, but don't call it dbt and call it 'modern living'.md"
+  ]
+}

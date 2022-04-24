@@ -19,7 +19,7 @@ Eventually I just realized that if reality is malleable by me, then I am God. An
 
 And then you realize that if everyone can be God, then anything can be God. Then you realize "oh, made in '''''his'''''' image makes sense."
 
-Then you notice that the crack in the pavement look like lightning strikes or a river system. Then you look at pictures of deepspace and pictures of cranial activity and pictures of cellular activity and you start to think "[Wait a second, what's going on here](Wait%20a%20second,%20what's%20going%20on%20here)"
+Then you notice that the crack in the pavement look like lightning strikes or a river system. Then you look at pictures of deepspace and pictures of cranial activity and pictures of cellular activity and you start to think "[Wait a second, what's going on here](Wait%20a%20second,%20what's%20going%20on%20here.md)"
 
-**All that to say, I blame Dan Harris for telling me meditation would make me happier**
+**All that to say, I blame Dan Harris for telling me meditation would make me happier, and I blame myself for jumping from system to system like a rabbit in search of a mate**
 
