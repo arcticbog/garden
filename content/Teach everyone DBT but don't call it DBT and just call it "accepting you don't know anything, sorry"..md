@@ -1,5 +1,5 @@
 ---
-title: Tea time
+title: "Tea time"
 ---
 
 I say DBT but I really mean some hybrid of all the current cog-sci methods and doodads of staying mindful/mentally fit.

@@ -1,3 +1,7 @@
+---
+title: Restaurants Whitehorse
+---
+
 I made this May 2021 after a roommate's self-pity about the lack of food options in Whitehorse made me curious about whether the city has over 100 restaurants
 
 I will get around to updating this one day, and maybe adding some formatting. Better yet; maybe this can form the basis for [Eating out Whitehorse]()

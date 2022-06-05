@@ -1,3 +1,7 @@
+---
+title: Swish Swish by Katy Perry
+---
+
 What **is** is the is in "what is"
 
 Or, if instinctively we create truths to suit the situation, then maybe truth is instinctive and malleable.
