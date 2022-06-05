@@ -6,7 +6,11 @@ Hi. Welcome to some thoughts. I'm [Bogdan](Bogdan.md).
  
 This website is slightly broken, but you should be able to figure it out. I have faith. 
 
-June: [Mental Health table of contents](Mental%20Health%20table%20of%20contents.md)
+
+
+June: 
+- [Mental Health table of contents](Mental%20Health%20table%20of%20contents.md)
+- [Earth - New Content Available!](Earth%20-%20New%20Content%20Available!.md)
 
 May 2021 [restaurants in whitehorse](restaurants%20in%20whitehorse.md)
 
@@ -20,7 +24,8 @@ February 17 [superstore](superstore.md)
 
 February 2 [Hooking onto the ephemeral mental cobweb](Hooking%20onto%20the%20ephemeral%20mental%20cobweb.md)
 
-
+Misc book reviews:
+- [Four Future - Peter Frase](Four%20Future%20-%20Peter%20Frase.md)
 
 [bleep bloop](bleep%20bloop)
 
