@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Hooking onto the ephemeral mental cobweb.md",
+            "file": "content/on incompleteness theorem.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Hooking onto the ephemeral mental cobweb.md",
+                "file": "content/on incompleteness theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "5145dbdb8737d3d3",
   "lastOpenFiles": [
-    "content/Hooking onto the ephemeral mental cobweb.md",
-    "content/Hyperlinking.md",
-    "content/LNOTS.md",
-    "content/_index.md",
-    "content/Turtles all the way down.md",
-    "content/Bogdan.md",
-    "content/Spiritual journey the likes very many have seen.md",
-    "content/the complaints generate the reality..md",
+    "content/on incompleteness theorem.md",
+    "content/templates/post.md",
     "content/superstore.md",
-    "content/bleep bloop.md"
+    "content/Teach everyone DBT but don't call it DBT and just call it \"accepting you don't know anything, sorry\"..md",
+    "content/_index.md",
+    "content/musings on what is.md",
+    "content/index.md",
+    "content/Bogdan.md",
+    "content/Hooking onto the ephemeral mental cobweb.md",
+    "content/Hyperlinking.md"
   ]
 }

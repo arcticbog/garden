@@ -1,14 +1,10 @@
 ---
-title: Bogdan
+title: index
 ---
 
-Hi. Welcome to some thoughts. I'm [Bogdan](Bogdan.md). 
- 
+Hi. Welcome to something.
+
 This website is slightly broken, but you should be able to figure it out. I have faith. 
-
-June: [Mental Health](Mental%20Health.md)
-
-May 2021 [restaurants in whitehorse](restaurants%20in%20whitehorse.md)
 
 April 26 [musings on what is](musings%20on%20what%20is.md)
 
