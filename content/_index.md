@@ -7,6 +7,8 @@ Hi. Welcome to some thoughts. I'm [Bogdan](Bogdan.md).
 This website is slightly broken, but you should be able to figure it out. I have faith. 
 
 
+September:
+[The Willpower Instinct - Kelly Mcgonigal - notes](The%20Willpower%20Instinct%20-%20Kelly%20Mcgonigal%20-%20notes.md)
 
 June: 
 - [Mental Health table of contents](Mental%20Health%20table%20of%20contents.md)
