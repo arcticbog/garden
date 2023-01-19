@@ -1,5 +1,5 @@
 Sources:
-[The Willpower Instinct - Kelly Mcgonigal - notes](The%20Willpower%20Instinct%20-%20Kelly%20Mcgonigal%20-%20notes.md)
+[Notes from The Willpower Instinct](Notes%20from%20The%20Willpower%20Instinct.md)
 Heart rate variability is an indicator of stress.
 
 Basically, your heart places greater emphasis on beating consistently when it is under duress. Hence, the variability of the time between heart beat drops and it it beats more consistently.

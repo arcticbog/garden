@@ -1,8 +1,7 @@
 ---
 title: "The Willpower Instinct - Kelly Mcgonigal - notes"
 ---
-
-
+I enjoy Kelly McGonigal's work - every concept she touches, she explains in first principles that stand up to both scientific & emotional scrutiny. I consider this book a potential keystone in the journey to [Recovering proprioception (IPR)](Recovering%20proprioception%20(IPR).md)
 see also: [The luxury of willpower, and building the foundations of it](The%20luxury%20of%20willpower,%20and%20building%20the%20foundations%20of%20it.md)
 - [Deal with anxiety by leaning into your anxiety](Deal%20with%20anxiety%20by%20leaning%20into%20your%20anxiety.md)
 - [Dopamine fires at the possibility of a reward, not the reward itself. Dopamine also fires in stress centers](Dopamine%20fires%20at%20the%20possibility%20of%20a%20reward,%20not%20the%20reward%20itself.%20Dopamine%20also%20fires%20in%20stress%20centers.md)
